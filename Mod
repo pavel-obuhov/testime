@@ -1,3 +1,8 @@
 Test
+<<<<<<< .merge_file_S0oag9
+
+B7
+=======
 B2 commited
 B1 commited
+>>>>>>> .merge_file_T7slQa
